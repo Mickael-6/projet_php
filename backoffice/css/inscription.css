@@ -1,0 +1,70 @@
+.bg {
+    background-color: #1f1f1f;
+    
+}
+.cardinsc {
+    margin-top: 235px;
+}
+
+.bg-register-image {
+    background: url("https://assets-prd.ignimgs.com/2021/08/04/top10playstationexclusives-blogroll-1628093966783.jpg?width=1280");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.bgcolor{
+    background-color: #141414;
+}
+
+
+.form-control {
+    background-color: #1f1f1f;
+    border: 1px solid #1f1f1f;
+    color: #aaf683;
+    
+}
+.form-control::-webkit-input-placeholder {
+    color: #aaf683;
+    opacity: 1;
+  }
+  .form-control:focus {
+    color: #aaf683;
+    background-color: #1f1f1f;
+    border-color: #aaf683;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(78, 115, 223, 0.25);
+  }
+  .form-control:disabled, .form-control[readonly] {
+    background-color: #1f1f1f;
+    opacity: 1;
+  }
+  
+.textvert{
+    color :#aaf683;
+}
+.btn-primary {
+    color: #1f1f1f;
+    background-color: #aaf683;
+    border-color: #aaf683;
+}
+.btn-primary:hover {
+    color: #1f1f1f;
+    background-color: #39ff14;
+    border-color: #39ff14;
+  }
+
+
+.custom-control-input[disabled] ~ .custom-control-label, .custom-control-input:disabled ~ .custom-control-label {
+    color: #aaf683;
+  }
+  
+
+.textvert {
+    color: #aaf683;
+}
+
+a:hover {
+    color: #39ff14;
+    text-decoration: underline;
+  }

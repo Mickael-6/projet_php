@@ -1,0 +1,109 @@
+.body {
+    background-color: #1f1f1f;
+}
+
+.header {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.692), rgba(23, 22, 24, 0.52)),
+        url("assets/img/exclusivites-ps4-pas-sur-PC.jpg");
+    background-repeat: no-repeat;
+    background-position: center 20%;
+    height: 300px;
+    width: 100%;
+    margin-top: -47px;
+
+    z-index: 2;
+
+}
+
+.h1 {
+    padding-top: 85px;
+    font-family: 'Paytone One', sans-serif;
+    color: #aaf683;
+    text-shadow: 3px 0px #60d394;
+    font-size: 80px;
+}
+
+.bgcard {
+    background-color: #141414;
+
+}
+
+.titre {
+    color: #aaf683;
+
+
+
+}
+
+.price {
+    color: #60d394;
+
+}
+
+.btn-outline-dark {
+    border-color: #aaf683;
+
+}
+
+.btn:hover {
+    color: #111111;
+    background-color: #39ff14;
+}
+
+
+.bgcopy {
+    background-color: #141414;
+}
+
+.titreprincipal {
+    font-family: 'Paytone One', sans-serif;
+    color: #aaf683;
+}
+
+
+
+a:hover {
+    color: #aaf683;
+}
+
+.icone {
+    margin-left: 500px;
+}
+
+
+.bgburger {
+    background-color: #001d3d9c;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 225px;
+    visibility: hidden;
+    border-radius: 5%;
+
+}
+
+.bgburger a {
+
+    margin-left: 62px;
+    margin-top: 20px;
+
+
+}
+
+.toggle {
+    visibility: visible;
+}
+
+.iconeprofil {
+    margin-right: 50px;
+}
+
+.inscription {
+    margin-left: 10px;
+}
+
+.bienvenue {
+    margin-right: 10px;
+    font-family: 'Paytone One', sans-serif;
+}

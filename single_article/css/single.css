@@ -1,0 +1,22 @@
+.bg {
+    background-color: #1f1f1f;
+
+}
+
+.textvert {
+    color: #aaf683;
+}
+
+.btn:hover {
+    color: #111111;
+    background-color: #39ff14;
+}
+
+.btn-outline-dark {
+    border-color: #aaf683;
+    color: #aaf683;
+}
+
+.titre {
+    color: #aaf683;
+}

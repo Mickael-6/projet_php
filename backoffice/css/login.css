@@ -1,0 +1,53 @@
+.bg1{
+    background-color: #1f1f1f;
+}
+.bgcolor{
+    background-color:#141414 ;
+}
+.cardy {
+    margin-top: 200px;
+}
+
+
+.bg-login-image {
+    background: url("https://www.netcost-security.fr/wp-content/uploads/2022/02/Naughty-Dog-confirme-trois-jeux-en-developpement.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+
+  .textvert{
+    color :#aaf683;
+}
+
+.form-control {
+    background-color: #1f1f1f;
+    border: 1px solid #1f1f1f;
+    color: #aaf683;
+}
+.form-control:focus {
+    color: #aaf683;
+    background-color: #1f1f1f;
+    border-color: #aaf683;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(78, 115, 223, 0.25);
+  }
+
+  .btn-primary {
+    color: #1f1f1f;
+    background-color: #aaf683;
+    border-color: #aaf683;
+    margin-left: -20px;
+}
+.btn-primary:hover {
+    color: #1f1f1f;
+    background-color: #39ff14;
+    border-color: #39ff14;
+  }
+  input[type=submit].btn-block {
+    width: 105%;
+}
+a:hover {
+    color: #39ff14;
+    text-decoration: underline;
+  }
