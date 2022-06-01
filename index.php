@@ -3,15 +3,7 @@ error_reporting(E_ERROR | E_WARNING | E_PARSE);
 session_start();
 require_once("backoffice/lib/connexion.php");
 require_once('backoffice/lib/select_user_by_id.php');
-
-
 ?>
-
-S
-
-
-
-
 
 
 <!DOCTYPE html>
